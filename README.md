@@ -4,7 +4,7 @@ DeaDBeeF is a multiple-platform music player for desktop operating systems that 
 
 After seeing this, I decided to use my free time to restore the Russian translation of DeaDBeeF and expand it using machine translation, with human contributions welcome!
 
-This is a work in progress for now.
+This is a work in progress for now. Be free!
 
 ## Install
 Visit the [wiki page](https://github.com/DeaDBeeF-Player/deadbeef/wiki/Detailed-Build-Instructions) for detailed instructions.
