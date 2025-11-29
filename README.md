@@ -23,7 +23,8 @@ If you have the dependencies - follow these simple steps:
 * For more information about the build process, read the generated INSTALL file and the output of `./configure --help`.
 
 
-Currently, everything but Linux is **UNTESTED**. Your mileage may vary. If you use macOS or Windows, feel free to try, and open an issue!
+# Currently, everything but Linux is **UNTESTED**. Your mileage may vary. If you use macOS or Windows, feel free to try, and open an issue!
+
 ### macOS
 
 * Install Xcode. The latest one is the best, but older versions will usually keep working for a year or two.
