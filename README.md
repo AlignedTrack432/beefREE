@@ -9,6 +9,7 @@ This fork intends to maintain compatibility with upstream DeaDBeeF while restori
 This is a work in progress for now. Be free!
 
 ## Install
+**These install notes have been taken from the upstream DeaDBeeF repo as this project is in it's infancy. Your mileage may vary.**
 Visit the [wiki page](https://github.com/DeaDBeeF-Player/deadbeef/wiki/Detailed-Build-Instructions) for detailed instructions.
 
 If you have the dependencies - follow these simple steps:
@@ -18,8 +19,11 @@ If you have the dependencies - follow these simple steps:
 * Install dependencies
 * Run `./autogen.sh` to bootstrap
 * Run `CC=clang CXX=clang++ ./configure`, followed with `make` and `sudo make install`.
+* You can switch to Russian by running the binary using `LANG=ru LC_ALL=ru ./deadbeef`
 * For more information about the build process, read the generated INSTALL file and the output of `./configure --help`.
 
+
+Currently, everything but Linux is **UNTESTED**. Your mileage may vary. If you use macOS or Windows, feel free to try, and open an issue!
 ### macOS
 
 * Install Xcode. The latest one is the best, but older versions will usually keep working for a year or two.
